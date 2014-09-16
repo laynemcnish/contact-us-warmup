@@ -15,6 +15,6 @@
 //= require turbolinks
 //= require_tree .
 
-setTimeout(function() {
-  window.location = 'http://localh0st-3000.herokuapp.com/';
-}, 10000)
+//setTimeout(function() {
+//  window.location = 'http://localh0st-3000.herokuapp.com/';
+//}, 10000)
